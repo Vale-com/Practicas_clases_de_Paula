@@ -16,5 +16,3 @@ Marianita=mascotas("vaca", "Fluffy Cows", "mediana", "cafecita", True, False, Fa
 
 Doña_juana=mascotas("vaca", "Holstein", "grande", "dalmata", True, False, False, True, "muuuu")
 
-
-
