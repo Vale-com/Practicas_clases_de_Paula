@@ -1,0 +1,78 @@
+.parte_central{
+    background-color: darkorange;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.parte_a{
+    background-color:lightcyan;
+    border: 4px solid purple;
+    flex: 20;
+    display: flex;
+    flex-direction: column;
+}
+
+.parte_b{
+    background-color: rgba(232, 255, 127, 0.555);
+    border: 4px solid purple;
+    flex: 60;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.parte_b1{
+    border: 4px solid red;
+    flex: 30;
+    display: flex;
+    flex-direction: row;
+}
+
+.parte_b2{
+    border: 4px solid blueviolet;
+    flex: 40;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.parte_bD{
+    border: 4px solid black;
+    flex: 50;
+}
+
+.parte_bI{
+    border: 4px solid black;
+    flex: 50;
+}
+
+.parte_d1{
+    background-color: blueviolet;
+    border: 4px solid rgb(0, 140, 255);
+    flex: 20;
+}
+
+.parte_d2{
+    border: 4px solid rgb(0, 140, 255);
+    flex: 80;
+}
+
+.parte_e1{
+    border: 4px solid lightgreen;
+    flex: 45;
+}
+
+.parte_e2{
+    background-color: blueviolet;
+    border: 4px solid lightgreen;
+    flex: 10;
+}
+
+.parte_e3{
+    background-color: blueviolet;
+    border: 4px solid lightgreen;
+    flex: 20;
+}
