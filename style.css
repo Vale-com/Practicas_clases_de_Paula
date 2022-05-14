@@ -18,4 +18,21 @@
     display: flex;
     align-items: center;
     border-radius: 16px;
+    position: relative;
+    bottom: 0px;
+    transition-duration: 1s;
+}
+
+.boton-seguir-arriba{
+    background-color: rgb(58, 87, 157);
+    margin-right: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: white;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    position: relative;
+    bottom: 10px;
+    transition-duration: 1s;
 }
